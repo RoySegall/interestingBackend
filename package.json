@@ -18,6 +18,7 @@
   "homepage": "https://github.com/RoySegall/interestingBackend#readme",
   "dependencies": {
     "express": "^4.14.0",
-    "thinky": "^2.3.6"
+    "thinky": "^2.3.6",
+    "yamljs": "^0.2.8"
   }
 }
